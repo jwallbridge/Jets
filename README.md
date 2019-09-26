@@ -8,7 +8,7 @@ We prove that the category of vector bundles over a fixed smooth manifold and it
 If you find this helpful in your work, you can consider citing the following :
 
 ```
-@article{wallbridge,    
+@article{wallbridge18,    
   author = {James Wallbridge},    
   title = {Jets and differential linear logic},    
   journal = {preprint arXiv:1811.06235},    
