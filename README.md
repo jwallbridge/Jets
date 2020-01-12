@@ -10,19 +10,23 @@ Here we provide a list of categories which have been shown to provide semantics 
 
 1. Kothe sequence spaces.
 ```
-T. Ehrhard. On Kothe sequence spaces and linear logic. Mathematical Structures in Computer Science, 12(5):579–623, 2002.
+T. Ehrhard. On Kothe sequence spaces and linear logic.   
+Mathematical Structures in Computer Science, 12(5):579–623, 2002.
 ```
 2. Finiteness spaces.
 ```
-T. Ehrhard. Finiteness spaces. Mathematical Structures in Computer Science, 15(4):615–646, 2005.
+T. Ehrhard. Finiteness spaces.   
+Mathematical Structures in Computer Science, 15(4):615–646, 2005.
 ```
 3. Convenient vector spaces.
 ```
-R. Blute, T. Ehrhard, and C. Tasson. A convenient differential category. Cah. Topol. Geom. Differ. Categ, 53(3):211–232, 2012.
+R. Blute, T. Ehrhard, and C. Tasson. A convenient differential category.   
+Cah. Topol. Geom. Differ. Categ, 53(3):211–232, 2012.
 ```
 4. Vector spaces.
 ```
-J. Clift and D. Murfet. Cofree coalgebras and differential linear logic. arXiv preprint arXiv:1701.01285, 2017.
+J. Clift and D. Murfet. Cofree coalgebras and differential linear logic.   
+arXiv preprint arXiv:1701.01285, 2017.
 ```
 
 # Referencing
